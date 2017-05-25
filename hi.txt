@@ -1,0 +1,3 @@
+Yo man,
+
+After merging the master branch with the MyFirstBranch, this is a text file just to differentiate between the Master and the current branch.
